@@ -61,7 +61,7 @@
         background: #ec7c3c;
         border-radius: 50px;
         z-index: 9999;
-        transition: top 1s linear, transform 3s linear;
+        transition: top 5s linear, transform 5s linear;
     }
 
     .head::before {
