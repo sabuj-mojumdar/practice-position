@@ -243,3 +243,20 @@
         border-bottom-right-radius: 50px;
         z-index: 0;
     }
+@media only screen and (max-width: 535px){
+    .man{
+        width: 400px;
+    }
+    .leg{
+        left: 140px;
+    }
+}
+@media only screen and (min-width: 320px) and (max-width: 430px)
+{
+    .man{
+        width: 310px;
+    }
+    .leg{
+        left: 95px;
+    }
+}
